@@ -1,5 +1,5 @@
 # VARDAS  
-Atliktas namų darbas  
+Atliktas namų darbas panaudojant klases. 
 Programa:  
 Atspaudina įvestą vardą, įvesto dydžio rėmelye.  
 Tikrina ar įvestas leistinas remėlio dydis.   
